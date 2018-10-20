@@ -1,2 +1,2 @@
 # CSE
-Course assignments, flowing changes
+Course assignments
