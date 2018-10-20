@@ -4,7 +4,6 @@
 
 #Cylinder
 #This program calculates the volume of a cylinder
-#Testing to see changes
 
 radius = float(input('Enter radius: '))
 length = float(input('Enter length: '))
